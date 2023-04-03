@@ -1,0 +1,421 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "DL36L2A44432": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "command": "bash -c \"alsactl --file ~/.config/asound.state restore\"",
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "write": "",
+                        "icon": "~/Pictures/StreamDeck/alsalogo.png"
+                    },
+                    "1": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "command": "gnome-terminal",
+                        "icon": "~/Pictures/StreamDeck/terminal.png"
+                    },
+                    "2": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "command": "code",
+                        "icon": "~/Pictures/StreamDeck/vscode.png"
+                    },
+                    "3": {
+                        "text": "",
+                        "command": "firefox \"about:newtab\"",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/firefox.png"
+                    },
+                    "4": {
+                        "command": "gnome-control-center",
+                        "icon": "~/Pictures/StreamDeck/settings.png"
+                    },
+                    "5": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "",
+                        "command": "amixer set Master 5%-",
+                        "icon": "~/Pictures/StreamDeck/volume_down.png"
+                    },
+                    "6": {
+                        "text": "",
+                        "keys": "",
+                        "text_vertical_align": "middle",
+                        "command": "amixer set Master 5%+",
+                        "icon": "~/Pictures/StreamDeck/volume_up.png"
+                    },
+                    "7": {
+                        "text": "",
+                        "text_vertical_align": "middle-top",
+                        "icon": ""
+                    },
+                    "8": {
+                        "text": "",
+                        "keys": "",
+                        "text_vertical_align": "middle",
+                        "command": "amixer set Master toggle",
+                        "icon": "~/Pictures/StreamDeck/volume_mute.png"
+                    },
+                    "9": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "keys": "media_play_pause",
+                        "icon": "~/Pictures/StreamDeck/volume_play_pause.png"
+                    },
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 10,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "",
+                        "command": "shutdown -r now",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/Restart.png"
+                    },
+                    "12": {
+                        "text": "Page 1\nHome",
+                        "text_vertical_align": "middle-top",
+                        "switch_page": 0
+                    },
+                    "13": {
+                        "text": "",
+                        "command": "shutdown now",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/shutdown.png"
+                    },
+                    "14": {
+                        "switch_page": 2,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "1": {
+                    "0": {
+                        "icon": "",
+                        "command": ""
+                    },
+                    "1": {
+                        "icon": "",
+                        "command": ""
+                    },
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "icon": "~/Pictures/StreamDeck/page_previous.png",
+                        "switch_page": 1
+                    },
+                    "11": {
+                        "text": "Page 2",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "icon": "~/Pictures/StreamDeck/page_next.png",
+                        "switch_page": 3
+                    }
+                },
+                "2": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 2,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 3",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 4,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "3": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 3,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 4",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 5,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "4": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 4,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 5",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 6,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "5": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 5,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 6",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 7,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "6": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 6,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 7",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 8,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "7": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 7,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 8",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 9,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "8": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 8,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 9",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 10,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                },
+                "9": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "switch_page": 9,
+                        "icon": "~/Pictures/StreamDeck/page_previous.png"
+                    },
+                    "11": {
+                        "text": "Page 10",
+                        "text_vertical_align": "middle",
+                        "switch_page": 0
+                    },
+                    "12": {
+                        "text": "Home",
+                        "text_vertical_align": "middle",
+                        "switch_page": 1
+                    },
+                    "13": {},
+                    "14": {
+                        "switch_page": 1,
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "icon": "~/Pictures/StreamDeck/page_next.png"
+                    }
+                }
+            },
+            "brightness": 99,
+            "brightness_dimmed": 0,
+            "page": 0
+        }
+    }
+}
